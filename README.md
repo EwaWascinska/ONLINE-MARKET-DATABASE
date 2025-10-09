@@ -20,7 +20,7 @@ The system is automated with triggers to handle business logic, ensuring data in
 
 ---
 
-## 🏗️ Database Schema
+## Database Schema
 
 The database is structured around key e-commerce entities. The relational model ensures data integrity and efficient querying.
 
@@ -46,7 +46,7 @@ For a detailed visualization, please see the Entity-Relationship Diagrams below.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 This database isn't just for storage; it's packed with automated logic and analytical tools.
 
@@ -74,7 +74,7 @@ A collection of SQL Views provide ready-to-use reports for business analysis:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Database:** Oracle Database
 * **Languages:** SQL, PL/SQL
@@ -82,7 +82,7 @@ A collection of SQL Views provide ready-to-use reports for business analysis:
 
 ---
 
-## 🚀 Setup and Usage
+## Setup and Usage
 
 To set up the database, execute the SQL scripts in the following order.
 
