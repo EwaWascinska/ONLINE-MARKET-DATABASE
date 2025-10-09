@@ -37,10 +37,12 @@ For a detailed visualization, please see the Entity-Relationship Diagrams below.
 *(Suggestion: Add the ERD images from page 3 of your PDF to an `img` folder in your repository and link them here.)*
 
 **Logical Model**
-![Logical Model](img/logical_model.png)
+<img width="2345" height="1058" alt="obraz" src="https://github.com/user-attachments/assets/e439d9f7-e97b-4a11-a070-1a1e58470968" />
+
 
 **Relational Model**
-![Relational Model](img/relational_model.png)
+<img width="2608" height="1295" alt="obraz" src="https://github.com/user-attachments/assets/ab509f1b-d6a4-4a10-96ea-217d716a4e2c" />
+
 
 ---
 
